@@ -1,6 +1,6 @@
 .contenedor img {
-    background: 100%;
-    max-width: 1000px;
+
+    width: 100%;
     margin: 0; 
-    overflow:hidden;
+    height: auto;
 }
